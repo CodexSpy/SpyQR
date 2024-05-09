@@ -13,7 +13,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: blue;
+    background-color: #2D9596;
 }
 
 .container{
@@ -53,9 +53,24 @@ opacity: 0.8;
 nav button.active{
     border-bottom:2px solid #0283d8;
     font-weight: 700;
-    color: #0283d8;
+    color: #106d6e;
 }
 
 ::-webkit-scrollbar{
     display: none;
+}
+
+.foot {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.foot img {
+    width: 1.5em;
+    vertical-align: middle;
 }
