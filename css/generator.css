@@ -35,7 +35,7 @@
 .generator-form button {
     width: 100%;
     height: 55px;
-    background: #0289d8;
+    background: #2D9596;
     columns: #fff;
     font-size: 17px;
     margin-top: 20px;
@@ -62,7 +62,7 @@
 
 .generator-btn .btn-link {
     background: transparent;
-    columns: #111;
+    color: #111;
     text-transform: uppercase;
     letter-spacing: 5px;
     font-weight: 500;
